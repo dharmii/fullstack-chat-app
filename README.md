@@ -1,7 +1,7 @@
 # ✨ Full Stack Realtime Chat App ✨
 Check Live Here : https://fullstack-chat-app-isrg.onrender.com
 
-Highlights:
+**Highlights**:
 
 - 🌟 Tech stack: MERN + Socket.io + TailwindCSS + Daisy UI
 - 🎃 Authentication && Authorization with JWT
